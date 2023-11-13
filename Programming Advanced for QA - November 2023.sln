@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Reverse Strings", "01. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Repeat Strings", "02. Repeat Strings\02. Repeat Strings.csproj", "{879E8C03-0DD5-479B-86AA-10A15EEE09AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Substring", "03. Substring\03. Substring.csproj", "{99C4FAA8-3212-491E-B2EA-E61B1CC537CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{879E8C03-0DD5-479B-86AA-10A15EEE09AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{879E8C03-0DD5-479B-86AA-10A15EEE09AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{879E8C03-0DD5-479B-86AA-10A15EEE09AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C4FAA8-3212-491E-B2EA-E61B1CC537CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C4FAA8-3212-491E-B2EA-E61B1CC537CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C4FAA8-3212-491E-B2EA-E61B1CC537CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C4FAA8-3212-491E-B2EA-E61B1CC537CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +42,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{76D7AD4F-1395-408C-8689-E072B4C678D4} = {E0C64A94-6B5E-4AD3-BA0B-A5A4BEC09F42}
 		{879E8C03-0DD5-479B-86AA-10A15EEE09AD} = {E0C64A94-6B5E-4AD3-BA0B-A5A4BEC09F42}
+		{99C4FAA8-3212-491E-B2EA-E61B1CC537CC} = {E0C64A94-6B5E-4AD3-BA0B-A5A4BEC09F42}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {20D8F02A-B5E3-46E0-A9E8-60FD5D8C6AF4}
