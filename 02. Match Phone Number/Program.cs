@@ -13,13 +13,13 @@ namespace _02._Match_Phone_Number
 
             MatchCollection validNames = regex.Matches(text);
 
-            //Console.WriteLine(string.Join(" ", validNames));
+            Console.WriteLine(string.Join(", ", validNames));
 
-            foreach (Match name in validNames)
-            {
-                Console.Write($"{name.Value}, ");
-            }
-            Console.WriteLine();
+            //foreach (Match name in validNames)
+            //{
+            //    Console.Write($"{name.Value}, ");
+            //}
+            //Console.WriteLine();
         }
     }
 }

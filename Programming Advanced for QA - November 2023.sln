@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Match Full Name", "01. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Match Phone Number", "02. Match Phone Number\02. Match Phone Number.csproj", "{3CCEA2EC-A0E0-46C2-83AC-649AB91F9450}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Match Dates", "03. Match Dates\03. Match Dates.csproj", "{B34766D1-ED8B-44F6-8F35-158D78BD5D6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{3CCEA2EC-A0E0-46C2-83AC-649AB91F9450}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CCEA2EC-A0E0-46C2-83AC-649AB91F9450}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CCEA2EC-A0E0-46C2-83AC-649AB91F9450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B34766D1-ED8B-44F6-8F35-158D78BD5D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34766D1-ED8B-44F6-8F35-158D78BD5D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34766D1-ED8B-44F6-8F35-158D78BD5D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34766D1-ED8B-44F6-8F35-158D78BD5D6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,6 +79,7 @@ Global
 		{5F9DE72D-E91A-405E-9442-3EE0ADD78D05} = {E0C64A94-6B5E-4AD3-BA0B-A5A4BEC09F42}
 		{380F94BB-6941-4463-B3D2-6FE0205CA260} = {9C3EEA9F-35C9-460E-944D-7413327F74ED}
 		{3CCEA2EC-A0E0-46C2-83AC-649AB91F9450} = {9C3EEA9F-35C9-460E-944D-7413327F74ED}
+		{B34766D1-ED8B-44F6-8F35-158D78BD5D6D} = {9C3EEA9F-35C9-460E-944D-7413327F74ED}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {20D8F02A-B5E3-46E0-A9E8-60FD5D8C6AF4}
