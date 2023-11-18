@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming Advanced for QA - November 2023", "Programming Advanced for QA - November 2023\Programming Advanced for QA - November 2023.csproj", "{B7A99204-B64F-4624-9561-FDFF9F5892F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programming Advanced for QA - November 2023", "Programming Advanced for QA - November 2023\Programming Advanced for QA - November 2023.csproj", "{B7A99204-B64F-4624-9561-FDFF9F5892F6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strings and Text Processing - Lab", "Strings and Text Processing - Lab", "{E0C64A94-6B5E-4AD3-BA0B-A5A4BEC09F42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Reverse Strings", "01. Reverse Strings\01. Reverse Strings.csproj", "{76D7AD4F-1395-408C-8689-E072B4C678D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Reverse Strings", "01. Reverse Strings\01. Reverse Strings.csproj", "{76D7AD4F-1395-408C-8689-E072B4C678D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Repeat Strings", "02. Repeat Strings\02. Repeat Strings.csproj", "{879E8C03-0DD5-479B-86AA-10A15EEE09AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Repeat Strings", "02. Repeat Strings\02. Repeat Strings.csproj", "{879E8C03-0DD5-479B-86AA-10A15EEE09AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Substring", "03. Substring\03. Substring.csproj", "{99C4FAA8-3212-491E-B2EA-E61B1CC537CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Substring", "03. Substring\03. Substring.csproj", "{99C4FAA8-3212-491E-B2EA-E61B1CC537CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Text Filter", "04. Text Filter\04. Text Filter.csproj", "{05B12E22-6E92-472A-B4CD-A1F821DC1E24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Text Filter", "04. Text Filter\04. Text Filter.csproj", "{05B12E22-6E92-472A-B4CD-A1F821DC1E24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Digits, Letters and Other", "05. Digits, Letters and Other\05. Digits, Letters and Other.csproj", "{5F9DE72D-E91A-405E-9442-3EE0ADD78D05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Digits, Letters and Other", "05. Digits, Letters and Other\05. Digits, Letters and Other.csproj", "{5F9DE72D-E91A-405E-9442-3EE0ADD78D05}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Regular Expressions - Lab", "Regular Expressions - Lab", "{9C3EEA9F-35C9-460E-944D-7413327F74ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Match Full Name", "01. Match Full Name\01. Match Full Name.csproj", "{380F94BB-6941-4463-B3D2-6FE0205CA260}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Match Full Name", "01. Match Full Name\01. Match Full Name.csproj", "{380F94BB-6941-4463-B3D2-6FE0205CA260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Match Phone Number", "02. Match Phone Number\02. Match Phone Number.csproj", "{3CCEA2EC-A0E0-46C2-83AC-649AB91F9450}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +57,10 @@ Global
 		{380F94BB-6941-4463-B3D2-6FE0205CA260}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{380F94BB-6941-4463-B3D2-6FE0205CA260}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{380F94BB-6941-4463-B3D2-6FE0205CA260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CCEA2EC-A0E0-46C2-83AC-649AB91F9450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CCEA2EC-A0E0-46C2-83AC-649AB91F9450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CCEA2EC-A0E0-46C2-83AC-649AB91F9450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CCEA2EC-A0E0-46C2-83AC-649AB91F9450}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +72,7 @@ Global
 		{05B12E22-6E92-472A-B4CD-A1F821DC1E24} = {E0C64A94-6B5E-4AD3-BA0B-A5A4BEC09F42}
 		{5F9DE72D-E91A-405E-9442-3EE0ADD78D05} = {E0C64A94-6B5E-4AD3-BA0B-A5A4BEC09F42}
 		{380F94BB-6941-4463-B3D2-6FE0205CA260} = {9C3EEA9F-35C9-460E-944D-7413327F74ED}
+		{3CCEA2EC-A0E0-46C2-83AC-649AB91F9450} = {9C3EEA9F-35C9-460E-944D-7413327F74ED}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {20D8F02A-B5E3-46E0-A9E8-60FD5D8C6AF4}
