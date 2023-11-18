@@ -11,9 +11,15 @@ namespace _01._Match_Full_Name
 
             string text = Console.ReadLine();
 
-            MatchCollection match = regex.Matches(text);
+            MatchCollection validNames = regex.Matches(text);
 
-            Console.WriteLine(string.Join(" ", match));
+            //Console.WriteLine(string.Join(" ", validNames));
+
+            foreach (Match name in validNames)
+            {
+                Console.Write($"{name.Value} ");
+            }
+            Console.WriteLine();
         }
     }
 }
