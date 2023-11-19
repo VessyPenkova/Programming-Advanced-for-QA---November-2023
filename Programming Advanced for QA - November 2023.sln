@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. SoftUni Parking", "04. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Student Academy", "05. Student Academy\05. Student Academy.csproj", "{1E7D1C86-4383-4400-B8FF-3F6288D76056}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Company Users (not included in final score)", "06. Company Users (not included in final score)\06. Company Users (not included in final score).csproj", "{0ECBDC48-3F84-4FB6-9555-8E5701D42E60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -139,6 +141,10 @@ Global
 		{1E7D1C86-4383-4400-B8FF-3F6288D76056}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E7D1C86-4383-4400-B8FF-3F6288D76056}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E7D1C86-4383-4400-B8FF-3F6288D76056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECBDC48-3F84-4FB6-9555-8E5701D42E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECBDC48-3F84-4FB6-9555-8E5701D42E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECBDC48-3F84-4FB6-9555-8E5701D42E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECBDC48-3F84-4FB6-9555-8E5701D42E60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -163,6 +169,7 @@ Global
 		{BFFAD3D1-A011-4896-B19C-C215BB1C29AF} = {3E4C31E3-894D-48EA-8F22-34E62D164956}
 		{A8CA2AE7-D24B-46C4-B775-FC446D583384} = {3E4C31E3-894D-48EA-8F22-34E62D164956}
 		{1E7D1C86-4383-4400-B8FF-3F6288D76056} = {3E4C31E3-894D-48EA-8F22-34E62D164956}
+		{0ECBDC48-3F84-4FB6-9555-8E5701D42E60} = {3E4C31E3-894D-48EA-8F22-34E62D164956}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {20D8F02A-B5E3-46E0-A9E8-60FD5D8C6AF4}

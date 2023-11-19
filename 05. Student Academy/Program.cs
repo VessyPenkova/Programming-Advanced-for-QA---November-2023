@@ -29,6 +29,12 @@ namespace _05._Student_Academy
                     Console.WriteLine($"{student.Key} -> {averageGrade:F2}");
                 }
             }
+            //var result = studentInfo.Where(st => st.Value.Average() >= 4.5);
+            //foreach (var item in result)
+            //{
+            //    double averageGrade = item.Value.Average();
+            //    Console.WriteLine($"{item.Key} -> {averageGrade:F2}");
+            //}
         }
     }
 }
