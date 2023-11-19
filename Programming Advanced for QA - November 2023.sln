@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Word Synonyms", "03. Wo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Word Filter", "04. Word Filter\04. Word Filter.csproj", "{71CD5CA7-E091-4173-8503-EAAA11420B16}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dictionaries, Lambda and LINQ - Exercise", "Dictionaries, Lambda and LINQ - Exercise", "{3E4C31E3-894D-48EA-8F22-34E62D164956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Count Chars in a String", "01. Count Chars in a String\01. Count Chars in a String.csproj", "{69276264-8ECC-485A-886E-72E37664CD00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -107,6 +111,10 @@ Global
 		{71CD5CA7-E091-4173-8503-EAAA11420B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71CD5CA7-E091-4173-8503-EAAA11420B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71CD5CA7-E091-4173-8503-EAAA11420B16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69276264-8ECC-485A-886E-72E37664CD00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69276264-8ECC-485A-886E-72E37664CD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69276264-8ECC-485A-886E-72E37664CD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69276264-8ECC-485A-886E-72E37664CD00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -126,6 +134,7 @@ Global
 		{B497D499-313D-4DFD-940C-2BCA368636B1} = {A16658D2-1DB6-41DF-8550-8C9DD5C77496}
 		{8A2B3DB1-BF12-4ABA-B632-7FF32BA19E8C} = {A16658D2-1DB6-41DF-8550-8C9DD5C77496}
 		{71CD5CA7-E091-4173-8503-EAAA11420B16} = {A16658D2-1DB6-41DF-8550-8C9DD5C77496}
+		{69276264-8ECC-485A-886E-72E37664CD00} = {3E4C31E3-894D-48EA-8F22-34E62D164956}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {20D8F02A-B5E3-46E0-A9E8-60FD5D8C6AF4}
