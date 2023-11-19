@@ -9,7 +9,7 @@
                   .Select(x => x.ToLower())
                   .ToArray();
 
-            SortedDictionary<string, int> counts = new();
+            Dictionary<string, int> counts = new();
 
             foreach (string word in wordsSquence)
             {
