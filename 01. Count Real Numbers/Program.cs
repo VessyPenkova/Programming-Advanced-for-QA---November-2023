@@ -4,7 +4,28 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int[] numbers = Console.ReadLine()
+                 .Split(" ")
+                 .Select(int.Parse)
+                 .ToArray();
+
+            SortedDictionary<int, int> counts = new();
+
+            foreach (int number in numbers) 
+            {
+                if (counts.ContainsKey(number))
+                {
+                    counts[number] += 1;
+                }
+                else
+                {
+                    counts[number] = 1;
+                }
+            }
+            foreach (var count in counts)
+            {
+                Console.WriteLine($"{count.Key} -> {count.Value}");
+            }
         }
     }
 }
