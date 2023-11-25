@@ -4,51 +4,63 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CarManufactureR
+namespace CarManufacturer
 {
     public class Car
     {
-        string make;
-        string model;
-        int year;
-        double fuelConsumption;
-        double fuelQuantity;
-        Engine engine;
-        Tire tire;
         public Car()
         {
-
+            this.Make = "VW";
+            this.Model = "Golf";
+            this.Year = 2025;
+            this.FuelQuantity = 200;
+            this.FuelConsumption = 10;
         }
         public Car(string make, string model, int year)
+            :this()
         {
             this.Make = make;
             this.Model = model;
             this.Year = year;
 
         }
-        public Car(string make, string model, int year, double fuelQuanity, double fuelConsumption, Tire[] tire, Engine engine)
-            : this(make, model, year, fuelQuanity, fuelConsumption)
+        public Car(string make, string model, int year, double fuelQuanity, double fuelConsumption)
+            : this(make, model, year)
         {
-            this.FuelConsumption = fuelConsumption;
             this.FuelQuantity = fuelQuanity;
-            this.Tire = tire;
-            this.Engine = engine;
-
+            this.FuelConsumption = fuelConsumption;
+           
         }
+        public Car(string make, string model, int year, double fuelQuanity, double fuelConsumption, Engine engine, Tire[] tires)
+            : this(make, model, year, fuelQuanity,  fuelConsumption )
+        {
+            this.Engine= engine;
+            this.Tires = tires;
+        }
+
+        //string make;
+        //string model;
+        //int year;
+        //double fuelConsumption;
+        //double fuelQuantity;
+
+        Tire[] tires;
+        Engine engine;
+
         public string Make { get; set; }
         public string Model { get; set; }
         public int Year { get; set; }
-        public double FuelQuantity { get; set; }
         public double FuelConsumption { get; set; }
+        public double FuelQuantity { get; set; }
         public Engine Engine { get; set; }
-        public Tire Tire { get; set; }
-
+        public Tire[] Tires { get; set; }
+       
         public void Drive(double distance)
         {
-            double result = FuelQuantity - FuelConsumption;
+            double result = FuelQuantity - (distance* FuelConsumption);
             if (result > 0)
             {
-                FuelQuantity -= FuelConsumption;
+                FuelQuantity -= distance * FuelConsumption;
             }
             else
             {
