@@ -10,12 +10,6 @@ namespace Articles
 {
     public class Article
     {
-        //public Article(string title, string content, string author)
-        //{
-        //    this.Author = author;
-        //    this.Content = content;
-        //    this.Author = author;
-        //}
         string title;
         string content;
         string author;
@@ -42,7 +36,8 @@ namespace Articles
 
         public override string ToString()
         {
-            return String.Format($"{0} - {1}: {2}", this.Title, this.Content, this.Author);
+            return String.Format($"{Title} - {Content}: {Author}");
+            //return $"{Title} - {Content}: {Author}";
         }
     }
 }

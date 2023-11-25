@@ -30,25 +30,20 @@
                 {
                     string newContent = commands[1];
                     currentarticle.Edit(newContent);
-                    //currentarticle.Title = currenttTitle;
-                    //currentarticle.Author = currentAuthor;
                 }
                 if (command == "ChangeAuthor")
                 {
                     string newAuthor = commands[1];
                     currentarticle.ChangeAuthor(newAuthor);
-                    //currentarticle.Content = currentContent;
-                    //currentarticle.Title = currenttTitle;
                 }
                 if (command == "Rename")
                 {
                     string newTitle = commands[1];
                     currentarticle.Rename(newTitle);
-                    //currentarticle.Author = currentAuthor;
-                    //currentarticle.Content = currentContent;
                 }
             }
-            Console.WriteLine($"{currentarticle.Title} - {currentarticle.Content}: {currentarticle.Author}");
+            //Console.WriteLine($"{currentarticle.Title} - {currentarticle.Content}: {currentarticle.Author}");
+            Console.WriteLine(currentarticle.ToString());
         }
     }
 }
