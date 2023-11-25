@@ -33,30 +33,5 @@
                 Console.WriteLine($"-- ${box.PriceforBox:f2}");
             }
         }
-        public class Item
-        {
-            public Item(string name, decimal price)
-            {
-                Name = name;
-                Price = price;
-            }
-            public string Name { get; set; }
-            public decimal Price { get; set; }
-        }
-        public class Box
-        {
-            public Box(string serilaNumber, Item item, int itemQuantity)
-            {
-                SerialNumber = serilaNumber;
-                Item = item;
-                ItemQuantity = itemQuantity;
-                PriceforBox = item.Price * itemQuantity;
-            }
-            public string SerialNumber { get; set; }
-            public Item Item { get; set; }
-            public int ItemQuantity { get; set; }
-
-            public decimal PriceforBox { get; set; }
-        }
     }
 }
