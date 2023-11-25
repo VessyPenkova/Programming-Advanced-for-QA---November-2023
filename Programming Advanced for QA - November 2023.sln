@@ -80,6 +80,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Vehicle Catalogue (not 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarManufacturer", "CarManufacturer\CarManufacturer.csproj", "{D61B1BDF-22A1-465B-BEA7-8380CCBC1EF2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objects and Classes - Exercise", "Objects and Classes - Exercise", "{E3B8C348-BCCB-45D4-B464-8BFD6D780651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students", "Students\Students.csproj", "{8F243EFE-AE33-490B-9DD4-1147115B0EED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -202,6 +206,10 @@ Global
 		{D61B1BDF-22A1-465B-BEA7-8380CCBC1EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D61B1BDF-22A1-465B-BEA7-8380CCBC1EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D61B1BDF-22A1-465B-BEA7-8380CCBC1EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F243EFE-AE33-490B-9DD4-1147115B0EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F243EFE-AE33-490B-9DD4-1147115B0EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F243EFE-AE33-490B-9DD4-1147115B0EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F243EFE-AE33-490B-9DD4-1147115B0EED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -235,6 +243,7 @@ Global
 		{04939254-6D76-41AE-8152-A7FC086CD98F} = {FD99D6E4-C6B0-4364-AE8F-F049B0A136FD}
 		{868819FB-93A0-44AC-AE60-CABCB1B49770} = {FD99D6E4-C6B0-4364-AE8F-F049B0A136FD}
 		{D61B1BDF-22A1-465B-BEA7-8380CCBC1EF2} = {BB4D4971-351E-40FC-B34C-F0601F964FCA}
+		{8F243EFE-AE33-490B-9DD4-1147115B0EED} = {E3B8C348-BCCB-45D4-B464-8BFD6D780651}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {20D8F02A-B5E3-46E0-A9E8-60FD5D8C6AF4}
