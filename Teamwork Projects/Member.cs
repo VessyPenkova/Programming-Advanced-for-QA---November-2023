@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Teamwork_Projects
 {
-    public class User
+    public  class Member
     {
+        public string Name { get; set; }
+        public Member(string name)
+        {
+           this.Name = name;
+        }
     }
 }
