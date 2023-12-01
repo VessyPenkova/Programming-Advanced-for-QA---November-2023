@@ -92,6 +92,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp", "..\..\..\Downloa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp.UnitTests", "..\..\..\Downloads\10-Resources-Unit-Testing-Exercise-Classes (1)\TestApp.UnitTests\TestApp.UnitTests.csproj", "{9F45990F-8FDD-4003-AFE4-0D88C06C0183}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05._Pokemon_Trainer", "05._Pokemon_Trainer\05._Pokemon_Trainer.csproj", "{AB5A4ED7-D454-4938-B022-C9160715B7D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -230,6 +232,10 @@ Global
 		{9F45990F-8FDD-4003-AFE4-0D88C06C0183}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F45990F-8FDD-4003-AFE4-0D88C06C0183}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F45990F-8FDD-4003-AFE4-0D88C06C0183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5A4ED7-D454-4938-B022-C9160715B7D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5A4ED7-D454-4938-B022-C9160715B7D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5A4ED7-D454-4938-B022-C9160715B7D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5A4ED7-D454-4938-B022-C9160715B7D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -267,6 +273,7 @@ Global
 		{630F5BBF-552B-47BA-9D25-57E159DC8F5F} = {E3B8C348-BCCB-45D4-B464-8BFD6D780651}
 		{001D225A-C22E-4AC1-A671-274F0B58D349} = {809AF7F7-2ADB-4BC0-8D3D-35530D26B636}
 		{9F45990F-8FDD-4003-AFE4-0D88C06C0183} = {809AF7F7-2ADB-4BC0-8D3D-35530D26B636}
+		{AB5A4ED7-D454-4938-B022-C9160715B7D2} = {E3B8C348-BCCB-45D4-B464-8BFD6D780651}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {20D8F02A-B5E3-46E0-A9E8-60FD5D8C6AF4}
