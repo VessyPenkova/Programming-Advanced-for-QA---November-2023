@@ -17,6 +17,6 @@ namespace Teamwork_Projects
         public string Name { get; set; }
         public string Creator { get; set; }
         public List<string> Members { get; set; }
-       
+
     }
 }
