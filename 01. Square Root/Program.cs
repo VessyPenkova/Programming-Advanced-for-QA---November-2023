@@ -1,10 +1,31 @@
-﻿namespace _01._Square_Root
+﻿namespace _01._Square_Root;
+
+public class Program
 {
-    internal class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        int input = int.Parse(Console.ReadLine());
+        try
         {
-            Console.WriteLine("Hello, World!");
+            if (input < 0)
+            {
+                // throw new System.ArgumentOutOfRangeException("value",
+                // "Sqrt for negative numbers is undefined!");
+                throw new Exception();
+            }
+            double sqrt = Math.Sqrt(input);
+            Console.WriteLine(sqrt);
+        }
+        catch //(ArgumentOutOfRangeException ex)
+        {
+            //Console.Error.WriteLine("Error: " + ex.Message);
+            //throw;
+            Console.WriteLine("Invalid number." );
+        }  
+        finally
+        { 
+            Console.WriteLine("Goodbye."); 
         }
     }
 }
+
