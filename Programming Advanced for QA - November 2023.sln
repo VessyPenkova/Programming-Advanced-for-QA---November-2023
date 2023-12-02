@@ -98,6 +98,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exceptions and Error Handli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Square Root", "01. Square Root\01. Square Root.csproj", "{4C505A05-5BE3-42BF-96A8-719A659F853E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Enter Numbers", "02. Enter Numbers\02. Enter Numbers.csproj", "{AA829E33-A7C2-4BBD-8726-B9F2CC1ACEC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -244,6 +246,10 @@ Global
 		{4C505A05-5BE3-42BF-96A8-719A659F853E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C505A05-5BE3-42BF-96A8-719A659F853E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C505A05-5BE3-42BF-96A8-719A659F853E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA829E33-A7C2-4BBD-8726-B9F2CC1ACEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA829E33-A7C2-4BBD-8726-B9F2CC1ACEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA829E33-A7C2-4BBD-8726-B9F2CC1ACEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA829E33-A7C2-4BBD-8726-B9F2CC1ACEC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -283,6 +289,7 @@ Global
 		{9F45990F-8FDD-4003-AFE4-0D88C06C0183} = {809AF7F7-2ADB-4BC0-8D3D-35530D26B636}
 		{AB5A4ED7-D454-4938-B022-C9160715B7D2} = {E3B8C348-BCCB-45D4-B464-8BFD6D780651}
 		{4C505A05-5BE3-42BF-96A8-719A659F853E} = {E1973B16-224D-4EC3-A6CB-4F4C64A74765}
+		{AA829E33-A7C2-4BBD-8726-B9F2CC1ACEC4} = {E1973B16-224D-4EC3-A6CB-4F4C64A74765}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {20D8F02A-B5E3-46E0-A9E8-60FD5D8C6AF4}
