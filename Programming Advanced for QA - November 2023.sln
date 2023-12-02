@@ -86,7 +86,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Articles", "Articles\Articl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teamwork Projects", "Teamwork Projects\Teamwork Projects.csproj", "{630F5BBF-552B-47BA-9D25-57E159DC8F5F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExerciseUnitTestingClasses__", "ExerciseUnitTestingClasses__", "{809AF7F7-2ADB-4BC0-8D3D-35530D26B636}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objects and Classes - Unit Testing Exercise", "Objects and Classes - Unit Testing Exercise", "{809AF7F7-2ADB-4BC0-8D3D-35530D26B636}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp", "..\..\..\Downloads\10-Resources-Unit-Testing-Exercise-Classes (1)\TestApp\TestApp.csproj", "{001D225A-C22E-4AC1-A671-274F0B58D349}"
 EndProject
