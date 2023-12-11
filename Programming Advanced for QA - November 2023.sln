@@ -120,6 +120,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Players", "..\..\..\Downloa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoo", "..\..\..\Downloads\13-Resources-OOP-Principles-Encapsulation-Inheritance\Zoo\Zoo.csproj", "{17160C6E-EEFD-4FA5-9CCA-636BE7D7DCE1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "16. OOP Principles - Abstraction and Polymorphism - Lab", "16. OOP Principles - Abstraction and Polymorphism - Lab", "{9EBD8298-F1AB-4236-8AC2-C16D73595DA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animals", "..\..\..\Downloads\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Animals\Animals.csproj", "{4793E728-6E9C-4295-A776-5BC4CEF39F22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cars", "..\..\..\Downloads\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Cars\Cars.csproj", "{D20BBCE5-4542-4CC8-AC66-C8811FD1DD51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raiding", "..\..\..\Downloads\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Raiding\Raiding.csproj", "{621FECC5-7107-401F-B7F6-A8ED81566564}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shapes", "..\..\..\Downloads\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\Shapes.csproj", "{04AC9566-49A2-4452-A11E-E471E1A75A88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -302,6 +312,22 @@ Global
 		{17160C6E-EEFD-4FA5-9CCA-636BE7D7DCE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17160C6E-EEFD-4FA5-9CCA-636BE7D7DCE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17160C6E-EEFD-4FA5-9CCA-636BE7D7DCE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4793E728-6E9C-4295-A776-5BC4CEF39F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4793E728-6E9C-4295-A776-5BC4CEF39F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4793E728-6E9C-4295-A776-5BC4CEF39F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4793E728-6E9C-4295-A776-5BC4CEF39F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20BBCE5-4542-4CC8-AC66-C8811FD1DD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20BBCE5-4542-4CC8-AC66-C8811FD1DD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20BBCE5-4542-4CC8-AC66-C8811FD1DD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20BBCE5-4542-4CC8-AC66-C8811FD1DD51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{621FECC5-7107-401F-B7F6-A8ED81566564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621FECC5-7107-401F-B7F6-A8ED81566564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621FECC5-7107-401F-B7F6-A8ED81566564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621FECC5-7107-401F-B7F6-A8ED81566564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04AC9566-49A2-4452-A11E-E471E1A75A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AC9566-49A2-4452-A11E-E471E1A75A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AC9566-49A2-4452-A11E-E471E1A75A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AC9566-49A2-4452-A11E-E471E1A75A88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -350,6 +376,10 @@ Global
 		{F9FFBC7C-87A1-43EF-9C66-26D1A16B66FC} = {3F3F4A8D-7E19-43CC-B595-88176B00D3BC}
 		{2B809637-ED45-4AB3-B596-787D9D0128C5} = {3F3F4A8D-7E19-43CC-B595-88176B00D3BC}
 		{17160C6E-EEFD-4FA5-9CCA-636BE7D7DCE1} = {3F3F4A8D-7E19-43CC-B595-88176B00D3BC}
+		{4793E728-6E9C-4295-A776-5BC4CEF39F22} = {9EBD8298-F1AB-4236-8AC2-C16D73595DA7}
+		{D20BBCE5-4542-4CC8-AC66-C8811FD1DD51} = {9EBD8298-F1AB-4236-8AC2-C16D73595DA7}
+		{621FECC5-7107-401F-B7F6-A8ED81566564} = {9EBD8298-F1AB-4236-8AC2-C16D73595DA7}
+		{04AC9566-49A2-4452-A11E-E471E1A75A88} = {9EBD8298-F1AB-4236-8AC2-C16D73595DA7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {20D8F02A-B5E3-46E0-A9E8-60FD5D8C6AF4}
