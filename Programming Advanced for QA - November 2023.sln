@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programming Advanced for QA - November 2023", "Programming Advanced for QA - November 2023\Programming Advanced for QA - November 2023.csproj", "{B7A99204-B64F-4624-9561-FDFF9F5892F6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strings and Text Processing - Lab", "Strings and Text Processing - Lab", "{E0C64A94-6B5E-4AD3-BA0B-A5A4BEC09F42}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Strings and Text Processing - Lab", "03. Strings and Text Processing - Lab", "{E0C64A94-6B5E-4AD3-BA0B-A5A4BEC09F42}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Reverse Strings", "01. Reverse Strings\01. Reverse Strings.csproj", "{76D7AD4F-1395-408C-8689-E072B4C678D4}"
 EndProject
@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Text Filter", "04. Text
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Digits, Letters and Other", "05. Digits, Letters and Other\05. Digits, Letters and Other.csproj", "{5F9DE72D-E91A-405E-9442-3EE0ADD78D05}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Regular Expressions - Lab", "Regular Expressions - Lab", "{9C3EEA9F-35C9-460E-944D-7413327F74ED}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Regular Expressions - Lab", "04. Regular Expressions - Lab", "{9C3EEA9F-35C9-460E-944D-7413327F74ED}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Match Full Name", "01. Match Full Name\01. Match Full Name.csproj", "{380F94BB-6941-4463-B3D2-6FE0205CA260}"
 EndProject
@@ -25,13 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Match Phone Number", "0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Match Dates", "03. Match Dates\03. Match Dates.csproj", "{B34766D1-ED8B-44F6-8F35-158D78BD5D6D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strings and Regular Expressions - Unit Testing Exercise", "Strings and Regular Expressions - Unit Testing Exercise", "{1292D1D4-52FF-4C01-A93E-109B69D9FEB4}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Strings and Regular Expressions - Unit Testing Exercise", "05. Strings and Regular Expressions - Unit Testing Exercise", "{1292D1D4-52FF-4C01-A93E-109B69D9FEB4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp.UnitTests", "..\..\..\Downloads\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\TestApp.UnitTests\TestApp.UnitTests.csproj", "{FA8E2B5B-23F4-4BC0-BD73-112A0F15CEB6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp", "..\..\..\Downloads\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\TestApp\TestApp.csproj", "{1286E353-B2EE-4205-91F6-B2D0424352B0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dictionaries, Lambda and LINQ - Lab", "Dictionaries, Lambda and LINQ - Lab", "{A16658D2-1DB6-41DF-8550-8C9DD5C77496}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06. Dictionaries, Lambda and LINQ - Lab", "06. Dictionaries, Lambda and LINQ - Lab", "{A16658D2-1DB6-41DF-8550-8C9DD5C77496}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Count Real Numbers", "01. Count Real Numbers\01. Count Real Numbers.csproj", "{6B018C91-59CD-42AA-9D4D-9B73FE7165F0}"
 EndProject
@@ -41,7 +41,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Word Synonyms", "03. Wo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Word Filter", "04. Word Filter\04. Word Filter.csproj", "{71CD5CA7-E091-4173-8503-EAAA11420B16}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dictionaries, Lambda and LINQ - Exercise", "Dictionaries, Lambda and LINQ - Exercise", "{3E4C31E3-894D-48EA-8F22-34E62D164956}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07. Dictionaries, Lambda and LINQ - Exercise", "07. Dictionaries, Lambda and LINQ - Exercise", "{3E4C31E3-894D-48EA-8F22-34E62D164956}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Count Chars in a String", "01. Count Chars in a String\01. Count Chars in a String.csproj", "{69276264-8ECC-485A-886E-72E37664CD00}"
 EndProject
@@ -55,7 +55,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Student Academy", "05. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Company Users (not included in final score)", "06. Company Users (not included in final score)\06. Company Users (not included in final score).csproj", "{0ECBDC48-3F84-4FB6-9555-8E5701D42E60}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dictionaries, Lambda and LINQ - Unit Testing Exercise", "Dictionaries, Lambda and LINQ - Unit Testing Exercise", "{437466BE-09C4-4AA7-B12A-3BCD5336E157}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08. Dictionaries, Lambda and LINQ - Unit Testing Exercise", "08. Dictionaries, Lambda and LINQ - Unit Testing Exercise", "{437466BE-09C4-4AA7-B12A-3BCD5336E157}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp", "..\..\..\Downloads\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\TestApp.csproj", "{5C804215-8DE6-4DE8-B427-F903FC0F7104}"
 EndProject
@@ -64,11 +64,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp.Tests", "..\..\..\D
 		{FA8E2B5B-23F4-4BC0-BD73-112A0F15CEB6} = {FA8E2B5B-23F4-4BC0-BD73-112A0F15CEB6}
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objects and Classes - Lab", "Objects and Classes - Lab", "{FD99D6E4-C6B0-4364-AE8F-F049B0A136FD}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09. Objects and Classes - Lab", "09. Objects and Classes - Lab", "{FD99D6E4-C6B0-4364-AE8F-F049B0A136FD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Songs", "01. Songs\01. Songs.csproj", "{0864FC47-DFE8-41D2-A796-236CCBDE9FCD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Defining Classes - Lab", "Defining Classes - Lab", "{BB4D4971-351E-40FC-B34C-F0601F964FCA}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10. Defining Classes - Lab", "10. Defining Classes - Lab", "{BB4D4971-351E-40FC-B34C-F0601F964FCA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.  Students", "02.  Students\02.  Students.csproj", "{4BCA2CE0-19EC-49CE-AE64-ECFB52476BD3}"
 EndProject
@@ -78,7 +78,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Vehicle Catalogue (not 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarManufacturer", "CarManufacturer\CarManufacturer.csproj", "{D61B1BDF-22A1-465B-BEA7-8380CCBC1EF2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objects and Classes - Exercise", "Objects and Classes - Exercise", "{E3B8C348-BCCB-45D4-B464-8BFD6D780651}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11. Objects and Classes - Exercise", "11. Objects and Classes - Exercise", "{E3B8C348-BCCB-45D4-B464-8BFD6D780651}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Students", "Students\Students.csproj", "{8F243EFE-AE33-490B-9DD4-1147115B0EED}"
 EndProject
@@ -86,7 +86,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Articles", "Articles\Articl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teamwork Projects", "Teamwork Projects\Teamwork Projects.csproj", "{630F5BBF-552B-47BA-9D25-57E159DC8F5F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objects and Classes - Unit Testing Exercise", "Objects and Classes - Unit Testing Exercise", "{809AF7F7-2ADB-4BC0-8D3D-35530D26B636}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12. Objects and Classes - Unit Testing Exercise", "12. Objects and Classes - Unit Testing Exercise", "{809AF7F7-2ADB-4BC0-8D3D-35530D26B636}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp", "..\..\..\Downloads\10-Resources-Unit-Testing-Exercise-Classes (1)\TestApp\TestApp.csproj", "{001D225A-C22E-4AC1-A671-274F0B58D349}"
 EndProject
