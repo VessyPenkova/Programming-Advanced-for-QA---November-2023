@@ -130,6 +130,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raiding", "..\..\..\Downloa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shapes", "..\..\..\Downloads\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\Shapes.csproj", "{04AC9566-49A2-4452-A11E-E471E1A75A88}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "17. Exercises - Implementing an OOP Hierarchy", "17. Exercises - Implementing an OOP Hierarchy", "{9AB19957-8DC0-4FD5-8D1E-06AFEB5FA50D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciseOopHierarchy", "..\..\..\Downloads\15-Resources-Implementing-OOP-Hierarchy (2)\ExerciseOopHierarchy.csproj", "{BE696785-1876-4E0B-888E-DC90CB63DA51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -328,6 +332,10 @@ Global
 		{04AC9566-49A2-4452-A11E-E471E1A75A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04AC9566-49A2-4452-A11E-E471E1A75A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04AC9566-49A2-4452-A11E-E471E1A75A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE696785-1876-4E0B-888E-DC90CB63DA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE696785-1876-4E0B-888E-DC90CB63DA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE696785-1876-4E0B-888E-DC90CB63DA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE696785-1876-4E0B-888E-DC90CB63DA51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -380,6 +388,7 @@ Global
 		{D20BBCE5-4542-4CC8-AC66-C8811FD1DD51} = {9EBD8298-F1AB-4236-8AC2-C16D73595DA7}
 		{621FECC5-7107-401F-B7F6-A8ED81566564} = {9EBD8298-F1AB-4236-8AC2-C16D73595DA7}
 		{04AC9566-49A2-4452-A11E-E471E1A75A88} = {9EBD8298-F1AB-4236-8AC2-C16D73595DA7}
+		{BE696785-1876-4E0B-888E-DC90CB63DA51} = {9AB19957-8DC0-4FD5-8D1E-06AFEB5FA50D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {20D8F02A-B5E3-46E0-A9E8-60FD5D8C6AF4}
