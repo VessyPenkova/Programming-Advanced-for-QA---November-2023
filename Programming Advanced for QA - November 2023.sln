@@ -7,132 +7,180 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programming Advanced for QA
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Strings and Text Processing - Lab", "03. Strings and Text Processing - Lab", "{E0C64A94-6B5E-4AD3-BA0B-A5A4BEC09F42}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Reverse Strings", "01. Reverse Strings\01. Reverse Strings.csproj", "{76D7AD4F-1395-408C-8689-E072B4C678D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0301. Reverse Strings", "01. Reverse Strings\0301. Reverse Strings.csproj", "{76D7AD4F-1395-408C-8689-E072B4C678D4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Repeat Strings", "02. Repeat Strings\02. Repeat Strings.csproj", "{879E8C03-0DD5-479B-86AA-10A15EEE09AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0302. Repeat Strings", "02. Repeat Strings\0302. Repeat Strings.csproj", "{879E8C03-0DD5-479B-86AA-10A15EEE09AD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Substring", "03. Substring\03. Substring.csproj", "{99C4FAA8-3212-491E-B2EA-E61B1CC537CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0303. Substring", "03. Substring\0303. Substring.csproj", "{99C4FAA8-3212-491E-B2EA-E61B1CC537CC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Text Filter", "04. Text Filter\04. Text Filter.csproj", "{05B12E22-6E92-472A-B4CD-A1F821DC1E24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0304. Text Filter", "04. Text Filter\0304. Text Filter.csproj", "{05B12E22-6E92-472A-B4CD-A1F821DC1E24}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Digits, Letters and Other", "05. Digits, Letters and Other\05. Digits, Letters and Other.csproj", "{5F9DE72D-E91A-405E-9442-3EE0ADD78D05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0305. Digits, Letters and Other", "05. Digits, Letters and Other\0305. Digits, Letters and Other.csproj", "{5F9DE72D-E91A-405E-9442-3EE0ADD78D05}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Regular Expressions - Lab", "04. Regular Expressions - Lab", "{9C3EEA9F-35C9-460E-944D-7413327F74ED}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Match Full Name", "01. Match Full Name\01. Match Full Name.csproj", "{380F94BB-6941-4463-B3D2-6FE0205CA260}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0401. Match Full Name", "01. Match Full Name\0401. Match Full Name.csproj", "{380F94BB-6941-4463-B3D2-6FE0205CA260}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Match Phone Number", "02. Match Phone Number\02. Match Phone Number.csproj", "{3CCEA2EC-A0E0-46C2-83AC-649AB91F9450}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0402. Match Phone Number", "02. Match Phone Number\0402. Match Phone Number.csproj", "{3CCEA2EC-A0E0-46C2-83AC-649AB91F9450}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Match Dates", "03. Match Dates\03. Match Dates.csproj", "{B34766D1-ED8B-44F6-8F35-158D78BD5D6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0403. Match Dates", "03. Match Dates\0403. Match Dates.csproj", "{B34766D1-ED8B-44F6-8F35-158D78BD5D6D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Strings and Regular Expressions - Unit Testing Exercise", "05. Strings and Regular Expressions - Unit Testing Exercise", "{1292D1D4-52FF-4C01-A93E-109B69D9FEB4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp.UnitTests", "..\..\..\Downloads\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\TestApp.UnitTests\TestApp.UnitTests.csproj", "{FA8E2B5B-23F4-4BC0-BD73-112A0F15CEB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0501. TestApp.UnitTests", "..\..\..\Downloads\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\TestApp.UnitTests\0501. TestApp.UnitTests.csproj", "{FA8E2B5B-23F4-4BC0-BD73-112A0F15CEB6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp", "..\..\..\Downloads\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\TestApp\TestApp.csproj", "{1286E353-B2EE-4205-91F6-B2D0424352B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0501. TestApp", "..\..\..\Downloads\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\TestApp\0501. TestApp.csproj", "{1286E353-B2EE-4205-91F6-B2D0424352B0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06. Dictionaries, Lambda and LINQ - Lab", "06. Dictionaries, Lambda and LINQ - Lab", "{A16658D2-1DB6-41DF-8550-8C9DD5C77496}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Count Real Numbers", "01. Count Real Numbers\01. Count Real Numbers.csproj", "{6B018C91-59CD-42AA-9D4D-9B73FE7165F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0601. Count Real Numbers", "01. Count Real Numbers\0601. Count Real Numbers.csproj", "{6B018C91-59CD-42AA-9D4D-9B73FE7165F0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Odd Occurrences", "02. Odd Occurrences\02. Odd Occurrences.csproj", "{B497D499-313D-4DFD-940C-2BCA368636B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0602. Odd Occurrences", "02. Odd Occurrences\0602. Odd Occurrences.csproj", "{B497D499-313D-4DFD-940C-2BCA368636B1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Word Synonyms", "03. Word Synonyms\03. Word Synonyms.csproj", "{8A2B3DB1-BF12-4ABA-B632-7FF32BA19E8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0603. Word Synonyms", "03. Word Synonyms\0603. Word Synonyms.csproj", "{8A2B3DB1-BF12-4ABA-B632-7FF32BA19E8C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Word Filter", "04. Word Filter\04. Word Filter.csproj", "{71CD5CA7-E091-4173-8503-EAAA11420B16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0604. Word Filter", "04. Word Filter\0604. Word Filter.csproj", "{71CD5CA7-E091-4173-8503-EAAA11420B16}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07. Dictionaries, Lambda and LINQ - Exercise", "07. Dictionaries, Lambda and LINQ - Exercise", "{3E4C31E3-894D-48EA-8F22-34E62D164956}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Count Chars in a String", "01. Count Chars in a String\01. Count Chars in a String.csproj", "{69276264-8ECC-485A-886E-72E37664CD00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0701. Count Chars in a String", "01. Count Chars in a String\0701. Count Chars in a String.csproj", "{69276264-8ECC-485A-886E-72E37664CD00}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. A Miner Task", "02. A Miner Task\02. A Miner Task.csproj", "{DF62CC45-B672-44A3-B469-9438829DB1E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0702. A Miner Task", "02. A Miner Task\0702. A Miner Task.csproj", "{DF62CC45-B672-44A3-B469-9438829DB1E1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Orders", "03. Orders\03. Orders.csproj", "{BFFAD3D1-A011-4896-B19C-C215BB1C29AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0703. Orders", "03. Orders\0703. Orders.csproj", "{BFFAD3D1-A011-4896-B19C-C215BB1C29AF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. SoftUni Parking", "04. SoftUni Parking\04. SoftUni Parking.csproj", "{A8CA2AE7-D24B-46C4-B775-FC446D583384}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0704. SoftUni Parking", "04. SoftUni Parking\0704. SoftUni Parking.csproj", "{A8CA2AE7-D24B-46C4-B775-FC446D583384}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Student Academy", "05. Student Academy\05. Student Academy.csproj", "{1E7D1C86-4383-4400-B8FF-3F6288D76056}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0705. Student Academy", "05. Student Academy\0705. Student Academy.csproj", "{1E7D1C86-4383-4400-B8FF-3F6288D76056}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Company Users (not included in final score)", "06. Company Users (not included in final score)\06. Company Users (not included in final score).csproj", "{0ECBDC48-3F84-4FB6-9555-8E5701D42E60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0706. Company Users (not included in final score)", "06. Company Users (not included in final score)\0706. Company Users (not included in final score).csproj", "{0ECBDC48-3F84-4FB6-9555-8E5701D42E60}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08. Dictionaries, Lambda and LINQ - Unit Testing Exercise", "08. Dictionaries, Lambda and LINQ - Unit Testing Exercise", "{437466BE-09C4-4AA7-B12A-3BCD5336E157}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp", "..\..\..\Downloads\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\TestApp.csproj", "{5C804215-8DE6-4DE8-B427-F903FC0F7104}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0801. TestApp", "..\..\..\Downloads\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\0801. TestApp.csproj", "{5C804215-8DE6-4DE8-B427-F903FC0F7104}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp.Tests", "..\..\..\Downloads\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp.Tests\TestApp.Tests.csproj", "{0CB98E93-E3E9-427C-887A-5C2E23186262}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0801. TestApp.Tests", "..\..\..\Downloads\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp.Tests\0801. TestApp.Tests.csproj", "{0CB98E93-E3E9-427C-887A-5C2E23186262}"
 	ProjectSection(ProjectDependencies) = postProject
 		{FA8E2B5B-23F4-4BC0-BD73-112A0F15CEB6} = {FA8E2B5B-23F4-4BC0-BD73-112A0F15CEB6}
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09. Objects and Classes - Lab", "09. Objects and Classes - Lab", "{FD99D6E4-C6B0-4364-AE8F-F049B0A136FD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Songs", "01. Songs\01. Songs.csproj", "{0864FC47-DFE8-41D2-A796-236CCBDE9FCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0901. Songs", "01. Songs\0901. Songs.csproj", "{0864FC47-DFE8-41D2-A796-236CCBDE9FCD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10. Defining Classes - Lab", "10. Defining Classes - Lab", "{BB4D4971-351E-40FC-B34C-F0601F964FCA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.  Students", "02.  Students\02.  Students.csproj", "{4BCA2CE0-19EC-49CE-AE64-ECFB52476BD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0902.  Students", "02.  Students\0902.  Students.csproj", "{4BCA2CE0-19EC-49CE-AE64-ECFB52476BD3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Store Boxes", "03. Store Boxes\03. Store Boxes.csproj", "{04939254-6D76-41AE-8152-A7FC086CD98F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0903. Store Boxes", "03. Store Boxes\0903. Store Boxes.csproj", "{04939254-6D76-41AE-8152-A7FC086CD98F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Vehicle Catalogue (not included in final score)", "04. Vehicle Catalogue (not included in final score)\04. Vehicle Catalogue (not included in final score).csproj", "{868819FB-93A0-44AC-AE60-CABCB1B49770}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0904. Vehicle Catalogue (not included in final score)", "04. Vehicle Catalogue (not included in final score)\0904. Vehicle Catalogue (not included in final score).csproj", "{868819FB-93A0-44AC-AE60-CABCB1B49770}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarManufacturer", "CarManufacturer\CarManufacturer.csproj", "{D61B1BDF-22A1-465B-BEA7-8380CCBC1EF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1001. CarManufacturer", "CarManufacturer\1001. CarManufacturer.csproj", "{D61B1BDF-22A1-465B-BEA7-8380CCBC1EF2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11. Objects and Classes - Exercise", "11. Objects and Classes - Exercise", "{E3B8C348-BCCB-45D4-B464-8BFD6D780651}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Students", "Students\Students.csproj", "{8F243EFE-AE33-490B-9DD4-1147115B0EED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1101. Students", "Students\1101. Students.csproj", "{8F243EFE-AE33-490B-9DD4-1147115B0EED}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Articles", "Articles\Articles.csproj", "{B74ABA0D-DD2B-41DD-AEE5-4D0960E520EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1102. Articles", "Articles\1102. Articles.csproj", "{B74ABA0D-DD2B-41DD-AEE5-4D0960E520EC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teamwork Projects", "Teamwork Projects\Teamwork Projects.csproj", "{630F5BBF-552B-47BA-9D25-57E159DC8F5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1103. Teamwork Projects", "Teamwork Projects\1103. Teamwork Projects.csproj", "{630F5BBF-552B-47BA-9D25-57E159DC8F5F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12. Objects and Classes - Unit Testing Exercise", "12. Objects and Classes - Unit Testing Exercise", "{809AF7F7-2ADB-4BC0-8D3D-35530D26B636}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp", "..\..\..\Downloads\10-Resources-Unit-Testing-Exercise-Classes (1)\TestApp\TestApp.csproj", "{001D225A-C22E-4AC1-A671-274F0B58D349}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1201. TestApp", "..\..\..\Downloads\10-Resources-Unit-Testing-Exercise-Classes (1)\TestApp\1201. TestApp.csproj", "{001D225A-C22E-4AC1-A671-274F0B58D349}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp.UnitTests", "..\..\..\Downloads\10-Resources-Unit-Testing-Exercise-Classes (1)\TestApp.UnitTests\TestApp.UnitTests.csproj", "{9F45990F-8FDD-4003-AFE4-0D88C06C0183}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1201. TestApp.UnitTests", "..\..\..\Downloads\10-Resources-Unit-Testing-Exercise-Classes (1)\TestApp.UnitTests\1201. TestApp.UnitTests.csproj", "{9F45990F-8FDD-4003-AFE4-0D88C06C0183}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05._Pokemon_Trainer", "05._Pokemon_Trainer\05._Pokemon_Trainer.csproj", "{AB5A4ED7-D454-4938-B022-C9160715B7D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1104. Pokemon_Trainer", "05._Pokemon_Trainer\1104. Pokemon_Trainer.csproj", "{AB5A4ED7-D454-4938-B022-C9160715B7D2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13. Exceptions and Error Handling - Lab", "13. Exceptions and Error Handling - Lab", "{E1973B16-224D-4EC3-A6CB-4F4C64A74765}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Square Root", "01. Square Root\01. Square Root.csproj", "{4C505A05-5BE3-42BF-96A8-719A659F853E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1301. Square Root", "01. Square Root\1301. Square Root.csproj", "{4C505A05-5BE3-42BF-96A8-719A659F853E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Enter Numbers", "02. Enter Numbers\02. Enter Numbers.csproj", "{AA829E33-A7C2-4BBD-8726-B9F2CC1ACEC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1302. Enter Numbers", "02. Enter Numbers\1302. Enter Numbers.csproj", "{AA829E33-A7C2-4BBD-8726-B9F2CC1ACEC4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Sum of Integers", "03. Sum of Integers\03. Sum of Integers.csproj", "{C203C802-1405-4F49-90DD-BCDEB42523CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1303. Sum of Integers", "03. Sum of Integers\1303. Sum of Integers.csproj", "{C203C802-1405-4F49-90DD-BCDEB42523CC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Play catch", "05. Play catch\05. Play catch.csproj", "{1FDC946E-754F-44D7-87C0-D36FFF78A864}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1304. Play catch", "05. Play catch\1304. Play catch.csproj", "{1FDC946E-754F-44D7-87C0-D36FFF78A864}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "14. Exceptions and Error Handling - Unit Testing Exercise", "14. Exceptions and Error Handling - Unit Testing Exercise", "{DB342A58-0408-4C57-89D5-3F75DF57AFF0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp.UnitTests", "..\..\..\Downloads\12-Unit-Testing-Exercise-Exception-Handling-Resources\TestApp.UnitTests\TestApp.UnitTests.csproj", "{F0B31321-F44F-4630-B75D-ED22B080A64C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1402. TestApp.UnitTests", "..\..\..\Downloads\12-Unit-Testing-Exercise-Exception-Handling-Resources\TestApp.UnitTests\1402. TestApp.UnitTests.csproj", "{F0B31321-F44F-4630-B75D-ED22B080A64C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp", "..\..\..\Downloads\12-Unit-Testing-Exercise-Exception-Handling-Resources\TestApp\TestApp.csproj", "{A77B22B1-B85C-45D5-A8D8-58B67458088C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1401. TestApp", "..\..\..\Downloads\12-Unit-Testing-Exercise-Exception-Handling-Resources\TestApp\1401. TestApp.csproj", "{A77B22B1-B85C-45D5-A8D8-58B67458088C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15. Encapsulation and Inheritance - Lab", "15. Encapsulation and Inheritance - Lab", "{3F3F4A8D-7E19-43CC-B595-88176B00D3BC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoxData", "..\..\..\Downloads\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\BoxData.csproj", "{1B4BD948-F828-4669-AA80-663B41863C1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1502. BoxData", "..\..\..\Downloads\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\1502. BoxData.csproj", "{1B4BD948-F828-4669-AA80-663B41863C1E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonInfo", "..\..\..\Downloads\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\PersonInfo.csproj", "{F9FFBC7C-87A1-43EF-9C66-26D1A16B66FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1501. PersonInfo", "..\..\..\Downloads\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\1501. PersonInfo.csproj", "{F9FFBC7C-87A1-43EF-9C66-26D1A16B66FC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Players", "..\..\..\Downloads\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\Players.csproj", "{2B809637-ED45-4AB3-B596-787D9D0128C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1503. Players", "..\..\..\Downloads\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\1503. Players.csproj", "{2B809637-ED45-4AB3-B596-787D9D0128C5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoo", "..\..\..\Downloads\13-Resources-OOP-Principles-Encapsulation-Inheritance\Zoo\Zoo.csproj", "{17160C6E-EEFD-4FA5-9CCA-636BE7D7DCE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1504. Zoo", "..\..\..\Downloads\13-Resources-OOP-Principles-Encapsulation-Inheritance\Zoo\1504. Zoo.csproj", "{17160C6E-EEFD-4FA5-9CCA-636BE7D7DCE1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "16. OOP Principles - Abstraction and Polymorphism - Lab", "16. OOP Principles - Abstraction and Polymorphism - Lab", "{9EBD8298-F1AB-4236-8AC2-C16D73595DA7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animals", "..\..\..\Downloads\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Animals\Animals.csproj", "{4793E728-6E9C-4295-A776-5BC4CEF39F22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1603. Animals", "..\..\..\Downloads\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Animals\1603. Animals.csproj", "{4793E728-6E9C-4295-A776-5BC4CEF39F22}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cars", "..\..\..\Downloads\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Cars\Cars.csproj", "{D20BBCE5-4542-4CC8-AC66-C8811FD1DD51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1602. Cars", "..\..\..\Downloads\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Cars\1602. Cars.csproj", "{D20BBCE5-4542-4CC8-AC66-C8811FD1DD51}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raiding", "..\..\..\Downloads\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Raiding\Raiding.csproj", "{621FECC5-7107-401F-B7F6-A8ED81566564}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1604. Raiding", "..\..\..\Downloads\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Raiding\1604. Raiding.csproj", "{621FECC5-7107-401F-B7F6-A8ED81566564}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shapes", "..\..\..\Downloads\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\Shapes.csproj", "{04AC9566-49A2-4452-A11E-E471E1A75A88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1601. Shapes", "..\..\..\Downloads\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\1601. Shapes.csproj", "{04AC9566-49A2-4452-A11E-E471E1A75A88}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "17. Exercises - Implementing an OOP Hierarchy", "17. Exercises - Implementing an OOP Hierarchy", "{9AB19957-8DC0-4FD5-8D1E-06AFEB5FA50D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciseOopHierarchy", "..\..\..\Downloads\15-Resources-Implementing-OOP-Hierarchy (2)\ExerciseOopHierarchy.csproj", "{BE696785-1876-4E0B-888E-DC90CB63DA51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1701. ExerciseOopHierarchy", "..\..\..\Downloads\15-Resources-Implementing-OOP-Hierarchy (2)\1701. ExerciseOopHierarchy.csproj", "{BE696785-1876-4E0B-888E-DC90CB63DA51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "19. Exam Preparation - 2", "19. Exam Preparation - 2", "{5623F77B-CF18-486D-BB2E-3EFE2F2A4CDF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18. Exam Preparation - 1", "18. Exam Preparation - 1", "{BACB7E91-52F6-4BB4-8655-CB5D16ED9934}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "20. Exam Preparation - 3", "20. Exam Preparation - 3", "{8A496DB2-FC33-44A8-9344-4C7882D9974F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp - 1801", "TestApp\TestApp - 1801.csproj", "{45CC3483-6FCD-480A-9045-C449A6EECA96}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp.Tests - 1801", "TestApp.Tests\TestApp.Tests - 1801.csproj", "{C621FC91-6E44-4553-BC1F-69DFEDD89F07}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp - 1802", "TestApp - 2\TestApp - 1802.csproj", "{B25C9ED1-57B5-4AB2-AA87-EC7C1DB544BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp.Test - 1802", "TestApp.Test - 2\TestApp.Test - 1802.csproj", "{FB28F596-55A3-432B-8173-B9971415E11F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp - 1803", "TestApp - 3\TestApp - 1803.csproj", "{D8A3B768-8263-4827-8101-A7514E5A9481}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp.Test - 1803", "TestApp.Test - 3\TestApp.Test - 1803.csproj", "{D6B94052-2A04-448C-939F-8EC530C79BA6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1902. TestApp", "TestApp - 2 - 2\1902. TestApp.csproj", "{0DBF2489-10EC-46CF-9157-F1DE00769800}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prob 01. Substring Extractor", "Prob 01. Substring Extractor", "{E607356F-8195-4E90-9398-76F68A9EB837}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp - 03 - 01", "TestApp - 03 - 01\TestApp - 03 - 01.csproj", "{A04AF2C6-3C00-49A7-B988-B3384E4F2233}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp.Test - 03 - 01", "TestApp.Test - 03 - 01\TestApp.Test - 03 - 01.csproj", "{B8C351DD-B5A8-4E36-8C42-8283BE6DE6CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prob 02. GradesTests", "Prob 02. GradesTests", "{EB8FB87D-0490-45FF-B1D2-611E80B862FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp - 03 - 02", "TestApp - 03 - 02\TestApp - 03 - 02.csproj", "{CF09611B-9CF5-4AB8-AD30-3D60A57AEFA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp.Tests - 03 - 02", "TestApp.Tests - 03 - 02\TestApp.Tests - 03 - 02.csproj", "{922FF66C-D38E-49BE-8060-839C68D5FA91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prob 03. Chat", "Prob 03. Chat", "{FB857031-2390-4BF8-83F0-A4D9173ED1F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp.Test -03 - 03", "TestApp.Test -03 - 03\TestApp.Test -03 - 03.csproj", "{AAEC34F9-2C11-4F3F-BBA0-086008A8BECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp - 03 - 03", "TestApp   03 - 03\TestApp - 03 - 03.csproj", "{5D13E46E-1943-4B7B-9615-96E72C02BC6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1901. TestApp.Tests", "TestApp.Tests - 02 - 01\1901. TestApp.Tests.csproj", "{66B2BD4C-259A-4060-8EAD-E0FD5BB59674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1901. TestApp", "1901. TestApp\1901. TestApp.csproj", "{BED594C4-994D-474F-AA5D-74898649C8B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1902. TestApp.Tests", "1902. TestApp.Tests\1902. TestApp.Tests.csproj", "{1D50D467-6705-45D6-95A4-E8DE160237F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1903. TestApp", "1903. TestApp\1903. TestApp.csproj", "{D45E4313-E3F7-4755-8F39-AA7698E9F844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1903. TestApp.Tests", "1903. TestApp.Tests\1903. TestApp.Tests.csproj", "{25FDA016-39C4-4C75-B1C5-DFFE3B0D3083}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -336,6 +384,78 @@ Global
 		{BE696785-1876-4E0B-888E-DC90CB63DA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE696785-1876-4E0B-888E-DC90CB63DA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE696785-1876-4E0B-888E-DC90CB63DA51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45CC3483-6FCD-480A-9045-C449A6EECA96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CC3483-6FCD-480A-9045-C449A6EECA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CC3483-6FCD-480A-9045-C449A6EECA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CC3483-6FCD-480A-9045-C449A6EECA96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C621FC91-6E44-4553-BC1F-69DFEDD89F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C621FC91-6E44-4553-BC1F-69DFEDD89F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C621FC91-6E44-4553-BC1F-69DFEDD89F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C621FC91-6E44-4553-BC1F-69DFEDD89F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25C9ED1-57B5-4AB2-AA87-EC7C1DB544BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25C9ED1-57B5-4AB2-AA87-EC7C1DB544BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25C9ED1-57B5-4AB2-AA87-EC7C1DB544BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25C9ED1-57B5-4AB2-AA87-EC7C1DB544BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB28F596-55A3-432B-8173-B9971415E11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB28F596-55A3-432B-8173-B9971415E11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB28F596-55A3-432B-8173-B9971415E11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB28F596-55A3-432B-8173-B9971415E11F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8A3B768-8263-4827-8101-A7514E5A9481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A3B768-8263-4827-8101-A7514E5A9481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A3B768-8263-4827-8101-A7514E5A9481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A3B768-8263-4827-8101-A7514E5A9481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B94052-2A04-448C-939F-8EC530C79BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B94052-2A04-448C-939F-8EC530C79BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B94052-2A04-448C-939F-8EC530C79BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B94052-2A04-448C-939F-8EC530C79BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DBF2489-10EC-46CF-9157-F1DE00769800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DBF2489-10EC-46CF-9157-F1DE00769800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DBF2489-10EC-46CF-9157-F1DE00769800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DBF2489-10EC-46CF-9157-F1DE00769800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A04AF2C6-3C00-49A7-B988-B3384E4F2233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04AF2C6-3C00-49A7-B988-B3384E4F2233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04AF2C6-3C00-49A7-B988-B3384E4F2233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04AF2C6-3C00-49A7-B988-B3384E4F2233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C351DD-B5A8-4E36-8C42-8283BE6DE6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C351DD-B5A8-4E36-8C42-8283BE6DE6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C351DD-B5A8-4E36-8C42-8283BE6DE6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C351DD-B5A8-4E36-8C42-8283BE6DE6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF09611B-9CF5-4AB8-AD30-3D60A57AEFA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF09611B-9CF5-4AB8-AD30-3D60A57AEFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF09611B-9CF5-4AB8-AD30-3D60A57AEFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF09611B-9CF5-4AB8-AD30-3D60A57AEFA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922FF66C-D38E-49BE-8060-839C68D5FA91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922FF66C-D38E-49BE-8060-839C68D5FA91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922FF66C-D38E-49BE-8060-839C68D5FA91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922FF66C-D38E-49BE-8060-839C68D5FA91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAEC34F9-2C11-4F3F-BBA0-086008A8BECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEC34F9-2C11-4F3F-BBA0-086008A8BECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEC34F9-2C11-4F3F-BBA0-086008A8BECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEC34F9-2C11-4F3F-BBA0-086008A8BECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D13E46E-1943-4B7B-9615-96E72C02BC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D13E46E-1943-4B7B-9615-96E72C02BC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D13E46E-1943-4B7B-9615-96E72C02BC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D13E46E-1943-4B7B-9615-96E72C02BC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66B2BD4C-259A-4060-8EAD-E0FD5BB59674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B2BD4C-259A-4060-8EAD-E0FD5BB59674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B2BD4C-259A-4060-8EAD-E0FD5BB59674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B2BD4C-259A-4060-8EAD-E0FD5BB59674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED594C4-994D-474F-AA5D-74898649C8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED594C4-994D-474F-AA5D-74898649C8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED594C4-994D-474F-AA5D-74898649C8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED594C4-994D-474F-AA5D-74898649C8B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D50D467-6705-45D6-95A4-E8DE160237F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D50D467-6705-45D6-95A4-E8DE160237F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D50D467-6705-45D6-95A4-E8DE160237F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D50D467-6705-45D6-95A4-E8DE160237F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45E4313-E3F7-4755-8F39-AA7698E9F844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45E4313-E3F7-4755-8F39-AA7698E9F844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45E4313-E3F7-4755-8F39-AA7698E9F844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45E4313-E3F7-4755-8F39-AA7698E9F844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25FDA016-39C4-4C75-B1C5-DFFE3B0D3083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25FDA016-39C4-4C75-B1C5-DFFE3B0D3083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25FDA016-39C4-4C75-B1C5-DFFE3B0D3083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25FDA016-39C4-4C75-B1C5-DFFE3B0D3083}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -389,6 +509,27 @@ Global
 		{621FECC5-7107-401F-B7F6-A8ED81566564} = {9EBD8298-F1AB-4236-8AC2-C16D73595DA7}
 		{04AC9566-49A2-4452-A11E-E471E1A75A88} = {9EBD8298-F1AB-4236-8AC2-C16D73595DA7}
 		{BE696785-1876-4E0B-888E-DC90CB63DA51} = {9AB19957-8DC0-4FD5-8D1E-06AFEB5FA50D}
+		{45CC3483-6FCD-480A-9045-C449A6EECA96} = {BACB7E91-52F6-4BB4-8655-CB5D16ED9934}
+		{C621FC91-6E44-4553-BC1F-69DFEDD89F07} = {BACB7E91-52F6-4BB4-8655-CB5D16ED9934}
+		{B25C9ED1-57B5-4AB2-AA87-EC7C1DB544BE} = {BACB7E91-52F6-4BB4-8655-CB5D16ED9934}
+		{FB28F596-55A3-432B-8173-B9971415E11F} = {BACB7E91-52F6-4BB4-8655-CB5D16ED9934}
+		{D8A3B768-8263-4827-8101-A7514E5A9481} = {BACB7E91-52F6-4BB4-8655-CB5D16ED9934}
+		{D6B94052-2A04-448C-939F-8EC530C79BA6} = {BACB7E91-52F6-4BB4-8655-CB5D16ED9934}
+		{0DBF2489-10EC-46CF-9157-F1DE00769800} = {5623F77B-CF18-486D-BB2E-3EFE2F2A4CDF}
+		{E607356F-8195-4E90-9398-76F68A9EB837} = {8A496DB2-FC33-44A8-9344-4C7882D9974F}
+		{A04AF2C6-3C00-49A7-B988-B3384E4F2233} = {E607356F-8195-4E90-9398-76F68A9EB837}
+		{B8C351DD-B5A8-4E36-8C42-8283BE6DE6CE} = {E607356F-8195-4E90-9398-76F68A9EB837}
+		{EB8FB87D-0490-45FF-B1D2-611E80B862FB} = {8A496DB2-FC33-44A8-9344-4C7882D9974F}
+		{CF09611B-9CF5-4AB8-AD30-3D60A57AEFA0} = {EB8FB87D-0490-45FF-B1D2-611E80B862FB}
+		{922FF66C-D38E-49BE-8060-839C68D5FA91} = {EB8FB87D-0490-45FF-B1D2-611E80B862FB}
+		{FB857031-2390-4BF8-83F0-A4D9173ED1F8} = {8A496DB2-FC33-44A8-9344-4C7882D9974F}
+		{AAEC34F9-2C11-4F3F-BBA0-086008A8BECB} = {FB857031-2390-4BF8-83F0-A4D9173ED1F8}
+		{5D13E46E-1943-4B7B-9615-96E72C02BC6B} = {FB857031-2390-4BF8-83F0-A4D9173ED1F8}
+		{66B2BD4C-259A-4060-8EAD-E0FD5BB59674} = {5623F77B-CF18-486D-BB2E-3EFE2F2A4CDF}
+		{BED594C4-994D-474F-AA5D-74898649C8B0} = {5623F77B-CF18-486D-BB2E-3EFE2F2A4CDF}
+		{1D50D467-6705-45D6-95A4-E8DE160237F3} = {5623F77B-CF18-486D-BB2E-3EFE2F2A4CDF}
+		{D45E4313-E3F7-4755-8F39-AA7698E9F844} = {5623F77B-CF18-486D-BB2E-3EFE2F2A4CDF}
+		{25FDA016-39C4-4C75-B1C5-DFFE3B0D3083} = {5623F77B-CF18-486D-BB2E-3EFE2F2A4CDF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {20D8F02A-B5E3-46E0-A9E8-60FD5D8C6AF4}
