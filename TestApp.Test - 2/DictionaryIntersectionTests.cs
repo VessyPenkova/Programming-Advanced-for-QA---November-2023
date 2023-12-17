@@ -27,7 +27,7 @@ namespace TestApp.Test___2
             Dictionary<string, int> firstDictionary = new Dictionary<string, int>()
         {
             { "first" , 1},
-            { "seconf", 2}
+            { "second", 2}
         };
             Dictionary<string, int> secondDictionary = new Dictionary<string, int>();
 
@@ -47,7 +47,7 @@ namespace TestApp.Test___2
             Dictionary<string, int> firstDictionary = new Dictionary<string, int>()
         {
             { "first" , 1},
-            { "seconf", 2}
+            { "second", 2}
         };
             Dictionary<string, int> secondDictionary = new Dictionary<string, int>()
             {
@@ -77,7 +77,7 @@ namespace TestApp.Test___2
         {
             { "first" , 1},
             { "second", 2},
-            { "fourd", 4}
+            { "fourth", 4}
         };
 
             Dictionary<string, int> expected = new Dictionary<string, int>()
@@ -92,13 +92,13 @@ namespace TestApp.Test___2
             //Assert
             Assert.That(result, Is.EqualTo(expected));
             Assert.IsTrue(result.ContainsKey("first"));
-            Assert.AreEqual(1, result["first"]);
+            Assert.That(result["first"], Is.EqualTo(1));
 
             Assert.IsTrue(result.ContainsKey("second"));
-            Assert.AreEqual(2, result["second"]);
+            Assert.That(result["second"], Is.EqualTo(2));
 
             Assert.IsFalse(result.ContainsKey("third"));
-            Assert.IsFalse(result.ContainsKey("fourd"));
+            Assert.IsFalse(result.ContainsKey("fourth"));
 
         }
 

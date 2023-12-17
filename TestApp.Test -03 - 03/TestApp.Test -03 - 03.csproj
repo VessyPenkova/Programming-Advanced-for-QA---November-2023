@@ -19,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\TestApp   03 - 03\TestApp - 03 - 03.csproj" />
     <ProjectReference Include="..\TestApp - 03 - 03\TestApp - 03 - 03.csproj" />
   </ItemGroup>
 

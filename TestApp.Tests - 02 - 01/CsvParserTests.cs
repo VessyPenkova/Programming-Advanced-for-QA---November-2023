@@ -1,3 +1,5 @@
+using _1901._TestApp;
+
 namespace TestApp.Tests___02___01
 {
     [TestFixture]
@@ -53,7 +55,6 @@ namespace TestApp.Tests___02___01
 
             //Assert
             Assert.That(result.Length, Is.EqualTo(5));
-            //Assert.IsFalse(result.Count, Is.EqualTo(0));
         }
 
         [Test]

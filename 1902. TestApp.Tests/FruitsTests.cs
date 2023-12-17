@@ -1,3 +1,5 @@
+using TestApp___2___2;
+
 namespace _1902._TestApp.Tests
 {
     [TestFixture]

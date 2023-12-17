@@ -142,7 +142,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "20. Exam Preparation - 3", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp - 1801", "TestApp\TestApp - 1801.csproj", "{45CC3483-6FCD-480A-9045-C449A6EECA96}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp.Tests - 1801", "TestApp.Tests\TestApp.Tests - 1801.csproj", "{C621FC91-6E44-4553-BC1F-69DFEDD89F07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp.Test - 1801", "TestApp.Tests\TestApp.Test - 1801.csproj", "{C621FC91-6E44-4553-BC1F-69DFEDD89F07}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp - 1802", "TestApp - 2\TestApp - 1802.csproj", "{B25C9ED1-57B5-4AB2-AA87-EC7C1DB544BE}"
 EndProject
@@ -170,17 +170,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prob 03. Chat", "Prob 03. C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp.Test -03 - 03", "TestApp.Test -03 - 03\TestApp.Test -03 - 03.csproj", "{AAEC34F9-2C11-4F3F-BBA0-086008A8BECB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp - 03 - 03", "TestApp   03 - 03\TestApp - 03 - 03.csproj", "{5D13E46E-1943-4B7B-9615-96E72C02BC6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp - 03 - 03", "TestApp   03 - 03\TestApp - 03 - 03.csproj", "{5D13E46E-1943-4B7B-9615-96E72C02BC6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1901. TestApp.Tests", "TestApp.Tests - 02 - 01\1901. TestApp.Tests.csproj", "{66B2BD4C-259A-4060-8EAD-E0FD5BB59674}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1901. TestApp.Tests", "TestApp.Tests - 02 - 01\1901. TestApp.Tests.csproj", "{66B2BD4C-259A-4060-8EAD-E0FD5BB59674}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1901. TestApp", "1901. TestApp\1901. TestApp.csproj", "{BED594C4-994D-474F-AA5D-74898649C8B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1901. TestApp", "1901. TestApp\1901. TestApp.csproj", "{BED594C4-994D-474F-AA5D-74898649C8B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1902. TestApp.Tests", "1902. TestApp.Tests\1902. TestApp.Tests.csproj", "{1D50D467-6705-45D6-95A4-E8DE160237F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1902. TestApp.Tests", "1902. TestApp.Tests\1902. TestApp.Tests.csproj", "{1D50D467-6705-45D6-95A4-E8DE160237F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1903. TestApp", "1903. TestApp\1903. TestApp.csproj", "{D45E4313-E3F7-4755-8F39-AA7698E9F844}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1903. TestApp", "1903. TestApp\1903. TestApp.csproj", "{D45E4313-E3F7-4755-8F39-AA7698E9F844}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1903. TestApp.Tests", "1903. TestApp.Tests\1903. TestApp.Tests.csproj", "{25FDA016-39C4-4C75-B1C5-DFFE3B0D3083}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1903. TestApp.Tests", "1903. TestApp.Tests\1903. TestApp.Tests.csproj", "{25FDA016-39C4-4C75-B1C5-DFFE3B0D3083}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

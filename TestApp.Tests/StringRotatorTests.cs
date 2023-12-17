@@ -16,7 +16,7 @@ public class StringRotatorTests
         string result = StringRotator.RotateRight(input, position);
 
         //Assert
-        Assert.AreEqual(input, result);
+        Assert.That(result, Is.EqualTo(input));
     }
 
     [Test]
@@ -30,7 +30,7 @@ public class StringRotatorTests
         string result = StringRotator.RotateRight(input, position);
 
         //Assert
-        Assert.AreEqual(input, result);
+        Assert.That(result, Is.EqualTo(input));
     }
 
     [Test]
@@ -47,7 +47,7 @@ public class StringRotatorTests
         string result = StringRotator.RotateRight(input, position);
 
         //Assert
-        Assert.AreEqual(expected, result);
+        Assert.That(result, Is.EqualTo(expected));
     }
 
     [Test]
@@ -63,7 +63,7 @@ public class StringRotatorTests
         string result = StringRotator.RotateRight(input, position);
 
         //Assert
-        Assert.AreEqual(expected, result);
+        Assert.That(result, Is.EqualTo(expected));
     }
 
     [Test]
@@ -79,6 +79,6 @@ public class StringRotatorTests
         string result = StringRotator.RotateRight(input, position);
 
         //Assert
-        Assert.AreEqual(expected, result);
+        Assert.That(result, Is.EqualTo(expected));
     }
 }

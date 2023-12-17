@@ -59,8 +59,6 @@ namespace _1903._TestApp.Tests
             // Arrange
             string title = "Task1";
             DateTime dueDate = DateTime.Today;
-            //this._toDoList.AddTask(title, dueDate);
-            //this._toDoList.CompleteTask(title);
 
             //Act && Assert
             Assert.That(() => this._toDoList.CompleteTask(title), Throws.ArgumentException);
